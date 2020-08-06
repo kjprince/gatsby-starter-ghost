@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://192.241.171.190",
+    "apiUrl": "https://ghost.kjprince.me",
     "contentApiKey": "494571350b90fe55933a663f70"
   },
   "production": {
-    "apiUrl": "https://192.241.171.190",
+    "apiUrl": "https://ghost.kjprince.me",
     "contentApiKey": "494571350b90fe55933a663f70"
   }
 }
